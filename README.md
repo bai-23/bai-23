@@ -1,4 +1,4 @@
-- Hi, I’m uu
+- Hi, I’m XXG0
 - I’m interested in front-end technology，WebGL
 - I’m currently learning WebGL and Babylonjs
 
